@@ -1,1 +1,0 @@
-# Taller-03-Posix-Sincronizaci-n
